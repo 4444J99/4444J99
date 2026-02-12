@@ -1,48 +1,112 @@
-```
-         ╔══════════════════════════════════════════════════╗
-         ║                                                  ║
-         ║    4 4 4 4 — j — 9 9                            ║
-         ║                                                  ║
-         ║    builder of systems that build themselves      ║
-         ║                                                  ║
-         ╚══════════════════════════════════════════════════╝
-```
+# Anthony James Padavano
 
-I work at the intersection of **epistemology**, **generative art**, and **software architecture** — building recursive systems, autonomous creative infrastructure, and products that emerge from theoretical foundations rather than feature requests.
+**Creative Technologist / Systems Architect**
 
-The work is organized as an [eight-organ system](https://github.com/meta-organvm):
+I build autonomous creative systems and treat their governance as an artistic medium — shipping infrastructure that coordinates theory, generative art, commerce, and community as a single governed system.
 
-```
-    I   theoria  ·  ontology, recursion, epistemic engines
-    II  poiesis  ·  generative art, performance, experiential systems
-    III ergon    ·  products, platforms, deployed commerce
-    IV  taxis    ·  orchestration, governance, agent swarms
-    V   logos    ·  essays, public process, building in public
-    VI  koinonia ·  community, salons, collaborative infrastructure
-    VII kerygma  ·  distribution, amplification, audience
-        meta     ·  the system that holds the system
-```
+**Now:** Shipping an [eight-organ orchestration system](https://github.com/meta-organvm) across 78 repos, 8 orgs, and ~289K words of public documentation.
 
-Each organ is a [GitHub organization](https://github.com/meta-organvm). Each organization holds repositories. The meta-system — the governance layer, the registry, the dependency graph — is itself the primary artifact.
+[Portfolio](https://4444j99.github.io/portfolio/) · [Resume](https://4444j99.github.io/portfolio/resume/) · [Email](mailto:padavano.anthony@gmail.com)
 
 ---
 
-**Selected entry points:**
+### Flagship Systems
 
-[RE:GE — Recursive Engine: Generative Entity](https://github.com/organvm-i-theoria/recursive-engine--generative-entity) · symbolic operating system for myth, identity, and recursive systems
+<table>
+<tr>
+<td width="50%">
 
-[Agentic Titan](https://github.com/organvm-iv-taxis/agentic-titan) · polymorphic agent swarm architecture across 6 self-organizing topologies
+**[Recursive Engine (RE:GE)](https://github.com/organvm-i-theoria/recursive-engine--generative-entity)**
+Symbolic operating system for myth, identity, and recursive structures — 1,254 tests, 85% coverage, 21 organ handlers.
 
-[in–midst–my–life](https://github.com/organvm-iii-ergon/life-my--midst--in) · the employer becomes the interviewee — identity as operating system
+</td>
+<td width="50%">
 
-[Narratological Algorithmic Lenses](https://github.com/organvm-i-theoria/narratological-algorithmic-lenses) · master storyteller principles formalized as computable operations
+**[Agentic Titan](https://github.com/organvm-iv-taxis/agentic-titan)**
+Polymorphic agent swarm architecture — 1,095+ tests, 6 self-organizing topologies, 22 agent archetypes, 18 phases.
 
-[LingFrame](https://github.com/organvm-i-theoria/linguistic-atomization-framework) · computational rhetoric across 46 canonical texts and 15+ languages
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Metasystem Master](https://github.com/organvm-ii-poiesis/metasystem-master)**
+Generative art architecture — real-time audiovisual systems treating performance infrastructure as creative medium.
+
+</td>
+<td width="50%">
+
+**[Orchestration Start Here](https://github.com/organvm-iv-taxis/orchestration-start-here)**
+Governance-as-code — machine-readable registry, dependency validation, promotion state machines, 5 CI/CD workflows.
+
+</td>
+</tr>
+</table>
 
 ---
 
+### Stack
+
+**Languages** &ensp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Frameworks** &ensp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**AI / ML** &ensp;
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-412991?style=flat)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-FF6F00?style=flat)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-764ABC?style=flat)
+
+**Infrastructure** &ensp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Creative** &ensp;
+![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white)
+![Generative Art](https://img.shields.io/badge/Generative_Art-c9a84c?style=flat)
+![Audio Synthesis](https://img.shields.io/badge/Audio_Synthesis-FF3366?style=flat)
+
+---
+
+### The Eight-Organ System
+
 ```
-    location    4ll
-    signal      github.com/meta-organvm
-    method      theory → system → artifact → recursion
+I   theoria   ·  ontology, recursion, epistemic engines
+II  poiesis   ·  generative art, performance, experiential systems
+III ergon     ·  products, platforms, deployed commerce
+IV  taxis     ·  orchestration, governance, agent swarms
+V   logos     ·  essays, public process, building in public
+VI  koinonia  ·  community, salons, collaborative infrastructure
+VII kerygma   ·  distribution, amplification, audience
+    meta      ·  the system that holds the system
 ```
+
+Each organ is a [GitHub organization](https://github.com/meta-organvm). The meta-system — the governance layer, the registry, the dependency graph — is itself the primary artifact. Read the [essays on building in public](https://organvm-v-logos.github.io/public-process/).
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4444j99&show_icons=true&theme=transparent&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=9f9f9f)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4444j99&layout=compact&theme=transparent&hide_border=true&title_color=c9a84c&text_color=9f9f9f)
+
+---
+
+### Background
+
+MFA in Creative Writing (FAU) · BA in English Literature (CUNY) · Meta Full-Stack Developer · Google UX Design, Digital Marketing & Project Management · 10+ years across multimedia production, digital marketing, systems design, and higher education.
+
+---
+
+<sub>New York City · [Portfolio](https://4444j99.github.io/portfolio/) · [Resume](https://4444j99.github.io/portfolio/resume/) · [hello@4444j.dev](mailto:hello@4444j.dev) · [meta-organvm](https://github.com/meta-organvm)</sub>
