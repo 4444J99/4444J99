@@ -98,8 +98,28 @@ Each organ is a [GitHub organization](https://github.com/meta-organvm). The meta
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4444j99&show_icons=true&theme=transparent&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=9f9f9f)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4444j99&layout=compact&theme=transparent&hide_border=true&title_color=c9a84c&text_color=9f9f9f)
+<a href="https://github.com/4444j99">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4444j99&show_icons=true&theme=transparent&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=9f9f9f" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4444j99&layout=compact&theme=transparent&hide_border=true&title_color=c9a84c&text_color=9f9f9f" alt="Top Languages" />
+</a>
+
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
+  <img alt="Contribution snake" src="./assets/snake.svg" width="100%" />
+</picture>
+
+<details>
+<summary>Detailed Metrics</summary>
+<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics.svg" />
+  <img alt="GitHub metrics" src="./assets/metrics.svg" width="100%" />
+</picture>
+</details>
 
 ---
 
