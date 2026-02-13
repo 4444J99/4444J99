@@ -103,6 +103,18 @@ Each organ is a [GitHub organization](https://github.com/meta-organvm). The meta
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4444j99&layout=compact&theme=transparent&hide_border=true&title_color=c9a84c&text_color=9f9f9f" alt="Top Languages" />
 </a>
 
+### Streak
+
+<a href="https://github.com/4444j99">
+  <img src="https://streak-stats.demolab.com?user=4444j99&theme=transparent&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=9f9f9f&dates=9f9f9f&currStreakNum=c9a84c&sideNums=c9a84c" alt="GitHub Streak" />
+</a>
+
+### Trophies
+
+<a href="https://github.com/4444j99">
+  <img src="https://github-profile-trophy.vercel.app/?username=4444j99&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+</a>
+
 ### Contribution Graph
 
 <picture>
@@ -123,6 +135,13 @@ Each organ is a [GitHub organization](https://github.com/meta-organvm). The meta
 
 ---
 
+### Latest Essays
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### Background
 
 MFA in Creative Writing (FAU) · BA in English Literature (CUNY) · Meta Full-Stack Developer · Google UX Design, Digital Marketing & Project Management · 10+ years across multimedia production, digital marketing, systems design, and higher education.
@@ -130,3 +149,5 @@ MFA in Creative Writing (FAU) · BA in English Literature (CUNY) · Meta Full-St
 ---
 
 <sub>New York City · [Portfolio](https://4444j99.github.io/portfolio/) · [Resume](https://4444j99.github.io/portfolio/resume/) · [hello@4444j.dev](mailto:hello@4444j.dev) · [meta-organvm](https://github.com/meta-organvm)</sub>
+
+![Profile views](https://komarev.com/ghpvc/?username=4444j99&color=c9a84c&style=flat&label=profile+views)
