@@ -12,6 +12,8 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: 4444j99
@@ -19,13 +21,8 @@ jobs:
             assets/snake.svg
             assets/snake-dark.svg?palette=github-dark
 
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-
       - name: Commit snake SVGs
         run: |
-          mkdir -p assets
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/snake.svg assets/snake-dark.svg
