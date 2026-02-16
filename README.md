@@ -137,7 +137,7 @@ Each organ is a [GitHub organization](https://github.com/meta-organvm). The meta
 
 ### Latest Essays
 
-<!-- BLOG-POST-LIST:START -->- [Registry-Driven Development: How a JSON File Governs 81 Repositories](https://organvm-v-logos.github.io/public-process/essays/registry-driven-development/)- [Why AI Function Calling Needs Ontological Grounding](https://organvm-v-logos.github.io/public-process/essays/why-ai-function-calling-needs-ontological-grounding/)- [The Parallel Launch: Why We Shipped 81 Repositories Simultaneously](https://organvm-v-logos.github.io/public-process/essays/the-parallel-launch/)- [Aetheria RPG Post-Mortem: A Full I→II→III Pipeline Retrospective](https://organvm-v-logos.github.io/public-process/essays/aetheria-rpg-post-mortem/)- [AI-Conductor Methodology: Directing 270,000 Words of Documentation](https://organvm-v-logos.github.io/public-process/essays/ai-conductor-methodology/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System](https://organvm-v-logos.github.io/public-process/essays/the-promotion-pipeline/)- [The Aesthetic Nervous System: How taste.yaml Cascades Across Eight Organs](https://organvm-v-logos.github.io/public-process/essays/aesthetic-nervous-system/)- [The Archive Paradox: Why Deleting Repositories Is an Act of Creation](https://organvm-v-logos.github.io/public-process/essays/archive-paradox/)- [Bootstrap to Scale: How Artists Build Institutions](https://organvm-v-logos.github.io/public-process/essays/bootstrap-to-scale/)- [The Dependency Graph: No Back-Edges Allowed](https://organvm-v-logos.github.io/public-process/essays/dependency-graph/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
