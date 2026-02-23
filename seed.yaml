@@ -1,0 +1,6 @@
+# seed.yaml
+organ: PERSONAL
+tier: support
+status: LOCAL
+produces: []
+consumes: []
