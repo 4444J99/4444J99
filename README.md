@@ -4,7 +4,7 @@
 
 I build autonomous creative systems and treat their governance as an artistic medium — shipping infrastructure that coordinates theory, generative art, commerce, and community as a single governed system.
 
-**Now:** Shipping an [eight-organ orchestration system](https://github.com/meta-organvm) across 81 repos, 8 orgs, and ~339K words of public documentation.
+**Now:** Shipping an [eight-organ orchestration system](https://github.com/meta-organvm) across 89 repos, 8 orgs, and ~363K words of public documentation.
 
 [Portfolio](https://4444j99.github.io/portfolio/) · [Resume](https://4444j99.github.io/portfolio/resume/) · [Email](mailto:padavano.anthony@gmail.com)
 
@@ -99,8 +99,8 @@ Each organ is a [GitHub organization](https://github.com/meta-organvm). The meta
 ### GitHub Stats
 
 <a href="https://github.com/4444j99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4444j99&show_icons=true&theme=transparent&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=9f9f9f" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4444j99&layout=compact&theme=transparent&hide_border=true&title_color=c9a84c&text_color=9f9f9f" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4444j99&show_icons=true&theme=transparent&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=9f9f9f" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4444j99&layout=compact&theme=transparent&hide_border=true&title_color=c9a84c&text_color=9f9f9f" alt="Top Languages" />
 </a>
 
 ### Streak
@@ -112,7 +112,7 @@ Each organ is a [GitHub organization](https://github.com/meta-organvm). The meta
 ### Trophies
 
 <a href="https://github.com/4444j99">
-  <img src="https://github-profile-trophy.vercel.app/?username=4444j99&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=4444j99&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
 </a>
 
 ### Contribution Graph
@@ -137,8 +137,7 @@ Each organ is a [GitHub organization](https://github.com/meta-organvm). The meta
 
 ### Latest Essays
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [The Solo Auteur Method](https://organvm-v-logos.github.io/public-process/essays/the-solo-auteur-method/)- [Constraint Alchemy: How Limitations Become Creative Fuel](https://organvm-v-logos.github.io/public-process/essays/constraint-alchemy-workshop/)- [The Construction Addiction: When Building Becomes Avoidance](https://organvm-v-logos.github.io/public-process/essays/construction-addiction/)- [Performance-Platform Methodology: When Is Your Product Ready for Users?](https://organvm-v-logos.github.io/public-process/essays/performance-platform-methodology/)- [Twelve Decisions That Shaped a 97-Repository System](https://organvm-v-logos.github.io/public-process/essays/twelve-decisions/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
