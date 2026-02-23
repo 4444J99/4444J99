@@ -137,7 +137,7 @@ Each organ is a [GitHub organization](https://github.com/meta-organvm). The meta
 
 ### Latest Essays
 
-<!-- BLOG-POST-LIST:START -->- [The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System](https://organvm-v-logos.github.io/public-process/essays/the-promotion-pipeline/)- [The Aesthetic Nervous System: How taste.yaml Cascades Across Eight Organs](https://organvm-v-logos.github.io/public-process/essays/aesthetic-nervous-system/)- [The Archive Paradox: Why Deleting Repositories Is an Act of Creation](https://organvm-v-logos.github.io/public-process/essays/archive-paradox/)- [Bootstrap to Scale: How Artists Build Institutions](https://organvm-v-logos.github.io/public-process/essays/bootstrap-to-scale/)- [The Dependency Graph: No Back-Edges Allowed](https://organvm-v-logos.github.io/public-process/essays/dependency-graph/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [The Solo Auteur Method](https://organvm-v-logos.github.io/public-process/essays/the-solo-auteur-method/)- [Constraint Alchemy: How Limitations Become Creative Fuel](https://organvm-v-logos.github.io/public-process/essays/constraint-alchemy-workshop/)- [The Construction Addiction: When Building Becomes Avoidance](https://organvm-v-logos.github.io/public-process/essays/construction-addiction/)- [Performance-Platform Methodology: When Is Your Product Ready for Users?](https://organvm-v-logos.github.io/public-process/essays/performance-platform-methodology/)- [Twelve Decisions That Shaped a 97-Repository System](https://organvm-v-logos.github.io/public-process/essays/twelve-decisions/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
