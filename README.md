@@ -137,7 +137,7 @@ Each organ is a [GitHub organization](https://github.com/meta-organvm). The meta
 
 ### Latest Essays
 
-<!-- BLOG-POST-LIST:START -->- [The Solo Auteur Method](https://organvm-v-logos.github.io/public-process/essays/the-solo-auteur-method/)- [Constraint Alchemy: How Limitations Become Creative Fuel](https://organvm-v-logos.github.io/public-process/essays/constraint-alchemy-workshop/)- [The Construction Addiction: When Building Becomes Avoidance](https://organvm-v-logos.github.io/public-process/essays/construction-addiction/)- [Performance-Platform Methodology: When Is Your Product Ready for Users?](https://organvm-v-logos.github.io/public-process/essays/performance-platform-methodology/)- [Twelve Decisions That Shaped a 97-Repository System](https://organvm-v-logos.github.io/public-process/essays/twelve-decisions/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [The Autonomous Sprint: When the System Maintains Itself](https://organvm-v-logos.github.io/public-process/essays/the-autonomous-sprint/)- [Precision Over Volume: A Doctoral Thesis on Career Pipeline Optimization](https://organvm-v-logos.github.io/public-process/essays/precision-over-volume-doctoral-thesis/)- [Two Weeks and Forty-Six Essays: The ORGAN-V Production Retrospective](https://organvm-v-logos.github.io/public-process/essays/two-weeks-and-forty-six-essays/)- [Writing as System Architecture: How ORGAN-V Became the System’s Memory](https://organvm-v-logos.github.io/public-process/essays/writing-as-system-architecture/)- [Community Infrastructure for One: Building ORGAN-VI Before the Community Arrives](https://organvm-v-logos.github.io/public-process/essays/community-infrastructure-for-one/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
