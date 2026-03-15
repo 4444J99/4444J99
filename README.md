@@ -4,7 +4,7 @@
 
 I build autonomous creative systems and treat their governance as an artistic medium — shipping infrastructure that coordinates theory, generative art, commerce, and community as a single governed system.
 
-**Now:** Shipping an [eight-organ orchestration system](https://github.com/meta-organvm) across 101 repos, 8 orgs, and ~404K words of public documentation.
+**Now:** Shipping an [eight-organ orchestration system](https://github.com/meta-organvm) across <!-- v:total_repos -->113<!-- /v --> repos, <!-- v:total_organs -->8<!-- /v --> orgs, and <!-- v:total_words_short -->404K+<!-- /v --> words of public documentation.
 
 [Portfolio](https://4444j99.github.io/portfolio/) · [Resume](https://4444j99.github.io/portfolio/resume/) · [Email](mailto:padavano.anthony@gmail.com)
 
