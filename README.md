@@ -150,3 +150,11 @@ MFA in Creative Writing (FAU) · BA in English Literature (CUNY) · Meta Full-St
 <sub>New York City · [Portfolio](https://4444j99.github.io/portfolio/) · [Resume](https://4444j99.github.io/portfolio/resume/) · [hello@4444j.dev](mailto:hello@4444j.dev) · [meta-organvm](https://github.com/meta-organvm)</sub>
 
 ![Profile views](https://komarev.com/ghpvc/?username=4444j99&color=c9a84c&style=flat&label=profile+views)
+
+<!-- SYSTEM-NAV-START -->
+
+---
+
+<sub>[Portfolio](https://4444j99.github.io/portfolio/) · [System Directory](https://4444j99.github.io/portfolio/directory/) · [ORGAN 4444J99](https://4444J99.github.io/) · Part of the <a href="https://4444j99.github.io/portfolio/directory/">ORGANVM eight-organ system</a></sub>
+
+<!-- SYSTEM-NAV-END -->
