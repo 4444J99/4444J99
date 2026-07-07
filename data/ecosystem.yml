@@ -1,0 +1,12 @@
+# Single source of truth for the dynamic ecosystem stats shown in README.md.
+#
+# These values are injected into the `<!-- v:KEY -->...<!-- /v -->` markers by
+# scripts/sync-readme.py (run locally or via the ecosystem-stats workflow).
+# Edit the numbers here, never inline in the README — CI fails on drift.
+
+total_repos: 171        # live public non-fork repos (canonical: corpus system-metrics.json computed.total_repos, repo_count_basis=live-public-gh-api)
+public_repos: 203       # live public accessible organvm repos returned by gh repo list, 2026-07-07
+owned_ecosystem_repos: 301  # live accessible organvm repos returned by gh repo list, 2026-07-07
+contributed_repos: 321  # GitHub metrics contribution span, 2026-07-07 assets
+total_organs: 10        # GitHub orgs (the eight organs + meta + personal)
+total_words_short: "988K+"  # documentation word count (matches portfolio vitals.logos.words = 988,148, corpus documentation_words; keeps profile ↔ portfolio consistent)
