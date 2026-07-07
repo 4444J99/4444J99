@@ -16,11 +16,17 @@ I build autonomous creative systems and treat governance as an artistic medium: 
 
 ## Computed Laurels
 
-<a href="https://github.com/organvm/laurea">
-  <img src="https://raw.githubusercontent.com/organvm/laurea/main/assets/cards/hero.svg" alt="Computed laurels - top 0.1% engineering throughput, recomputed daily" width="800"/>
-</a>
+LAVREA is the live proof instrument for this profile. It recomputes the claim from the GitHub API and cited population baselines; this README repeats the stable public result instead of embedding a stale generated card.
 
-*Not a bio line - an instrument. [LAVREA](https://github.com/organvm/laurea) recomputes these placements from the live GitHub API against cited population baselines. If the output stops, the claim deletes itself. [Methodology](https://github.com/organvm/laurea/blob/main/METHODOLOGY.md) · [Full report](https://github.com/organvm/laurea/blob/main/assets/SUPERLATIVES.md)*
+| Signal | Current proof |
+|---|---:|
+| Engineering throughput | Top 0.1% public GitHub output profile |
+| Twelve-month contribution volume | 27K+ contributions |
+| Pull request throughput | 2.3K+ PRs/year |
+| Repository portfolio | 300+ contributed repositories, 171 canonical public non-fork repos |
+| Operating surface | 10 orgs across the eight-organ system |
+
+[Methodology](https://github.com/organvm/laurea/blob/main/METHODOLOGY.md) · [Full report](https://github.com/organvm/laurea/blob/main/assets/SUPERLATIVES.md) · [LAVREA repo](https://github.com/organvm/laurea)
 
 ---
 
