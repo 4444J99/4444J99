@@ -40,7 +40,7 @@ LAVREA is the live proof instrument for this profile. It recomputes the claim fr
 | [Peer-Audited Behavioral Blockchain](https://github.com/organvm/peer-audited--behavioral-blockchain) | Peer-audited ledger/behavioral proof surface with high public issue and PR activity. |
 | [AI Chat Exporter](https://github.com/organvm/a-i-chat--exporter) | Conversation export and knowledge extraction pipeline for AI work artifacts. |
 | [Universal Mail Automation](https://github.com/organvm/universal-mail--automation) | Mail triage and automation substrate, gated against unsafe mailbox writes. |
-| [Commerce Meta](https://github.com/organvm/commerce--meta) | Commerce governance and revenue infrastructure for ORGAN III. |
+| [Card-Trade Social](https://github.com/organvm/card-trade-social) | Financial-grade TCG portfolio tracking, social commerce, and AI-generated content — ORGAN III commerce. |
 | [Public Process](https://github.com/organvm/public-process) | Essay and editorial pipeline feeding the logos organ. |
 
 ---
