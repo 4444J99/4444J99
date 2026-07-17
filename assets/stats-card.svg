@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="298" viewBox="0 0 480 298" role="img" fill="none">
+<rect x="0.5" y="0.5" width="479" height="297" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="40" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="19" font-weight="700">Verified GitHub statistics</text>
+<text x="28" y="60" fill="#7d8590" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12">organvm ecosystem · re-derivable from stats-manifest.json</text>
+<text x="28" y="92" fill="#7d8590" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Public repositories</text>
+<text x="452" y="92" text-anchor="end" fill="#2f81f7" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700">238</text>
+<text x="28" y="126" fill="#7d8590" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Original (non-fork)</text>
+<text x="452" y="126" text-anchor="end" fill="#2f81f7" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700">209</text>
+<text x="28" y="160" fill="#7d8590" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Contributions · last year</text>
+<text x="452" y="160" text-anchor="end" fill="#2f81f7" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700">29,697</text>
+<text x="28" y="194" fill="#7d8590" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Active days · last year</text>
+<text x="452" y="194" text-anchor="end" fill="#2f81f7" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700">273</text>
+<text x="28" y="228" fill="#7d8590" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Current streak (days)</text>
+<text x="452" y="228" text-anchor="end" fill="#2f81f7" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700">63</text>
+<text x="28" y="262" fill="#7d8590" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Stars across ecosystem</text>
+<text x="452" y="262" text-anchor="end" fill="#2f81f7" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700">61</text>
+</svg>
