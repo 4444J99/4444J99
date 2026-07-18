@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="310" viewBox="0 0 480 310" role="img" fill="none">
-<rect width="480" height="310" fill="#0d1117"/>
-<text x="4" y="30" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="800">Verified GitHub statistics</text>
-<text x="4" y="54" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5">organvm ecosystem · every number re-derivable from stats-manifest.json</text>
-<text x="4" y="96" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15">Public repositories</text>
-<text x="476" y="96" text-anchor="end" fill="#58a6ff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="800">238</text>
-<text x="4" y="134" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15">Original (non-fork)</text>
-<text x="476" y="134" text-anchor="end" fill="#58a6ff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="800">209</text>
-<text x="4" y="172" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15">Contributions · last year</text>
-<text x="476" y="172" text-anchor="end" fill="#58a6ff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="800">29,799</text>
-<text x="4" y="210" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15">Active days · last year</text>
-<text x="476" y="210" text-anchor="end" fill="#58a6ff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="800">273</text>
-<text x="4" y="248" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15">Current streak (days)</text>
-<text x="476" y="248" text-anchor="end" fill="#58a6ff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="800">63</text>
-<text x="4" y="286" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15">Stars across ecosystem</text>
-<text x="476" y="286" text-anchor="end" fill="#58a6ff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="800">62</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="352" viewBox="0 0 460 352" role="img" fill="none">
+
+<text x="2" y="30" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="800">Verified GitHub statistics</text>
+<text x="2" y="54" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5">organvm ecosystem · every number re-derivable from stats-manifest.json</text>
+<text x="2" y="102" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15">Public repositories</text>
+<text x="458" y="102" text-anchor="end" fill="#58a6ff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="800">238</text>
+<text x="2" y="146" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15">Original (non-fork)</text>
+<text x="458" y="146" text-anchor="end" fill="#58a6ff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="800">209</text>
+<text x="2" y="190" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15">Contributions · last year</text>
+<text x="458" y="190" text-anchor="end" fill="#58a6ff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="800">29,806</text>
+<text x="2" y="234" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15">Active days · last year</text>
+<text x="458" y="234" text-anchor="end" fill="#58a6ff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="800">273</text>
+<text x="2" y="278" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15">Current streak (days)</text>
+<text x="458" y="278" text-anchor="end" fill="#58a6ff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="800">63</text>
+<text x="2" y="322" fill="#8b949e" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15">Stars across ecosystem</text>
+<text x="458" y="322" text-anchor="end" fill="#58a6ff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="800">62</text>
 </svg>
