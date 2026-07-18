@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="90" viewBox="0 0 760 90" role="img" fill="none">
 <rect width="760" height="90" fill="#0d1117" rx="8"/>
-<text x="380.0" y="52" text-anchor="middle" fill="#2f81f7" font-family="Consolas,Menlo,monospace" font-size="20" font-weight="700" opacity="1">I build production systems that solve expensive problems.<animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.4500;0.5000;1.0000" dur="7.2s" repeatCount="indefinite" calcMode="linear"/></text>
-<text x="380.0" y="52" text-anchor="middle" fill="#2f81f7" font-family="Consolas,Menlo,monospace" font-size="20" font-weight="700" opacity="0">Not demos. Live platforms — tested, deployed, running.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.4500;0.5000;1.0000" dur="7.2s" repeatCount="indefinite" calcMode="linear"/></text>
+<text x="380.0" y="52" text-anchor="middle" fill="#58a6ff" font-family="Consolas,Menlo,monospace" font-size="20" font-weight="700" opacity="1">I build production systems that solve expensive problems.<animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.4500;0.5000;1.0000" dur="7.2s" repeatCount="indefinite" calcMode="linear"/></text>
+<text x="380.0" y="52" text-anchor="middle" fill="#58a6ff" font-family="Consolas,Menlo,monospace" font-size="20" font-weight="700" opacity="0">Not demos. Live platforms — tested, deployed, running.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.4500;0.5000;1.0000" dur="7.2s" repeatCount="indefinite" calcMode="linear"/></text>
 </svg>

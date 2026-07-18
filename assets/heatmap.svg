@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="692" height="150" viewBox="0 0 692 150" role="img" fill="none">
-<rect x="0.5" y="0.5" width="691" height="149" rx="8" fill="#0d1117" stroke="#30363d"/>
-<text x="28" y="34" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="700">Contribution activity · last year</text>
+<rect width="692" height="150" fill="#0d1117"/>
+<text x="28" y="34" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="800">Contribution activity · last year</text>
 <rect x="28" y="56" width="9" height="9" rx="2" fill="#161b22"/>
 <rect x="28" y="68" width="9" height="9" rx="2" fill="#161b22"/>
 <rect x="28" y="80" width="9" height="9" rx="2" fill="#161b22"/>
