@@ -7,7 +7,7 @@
 
 **I build production systems that solve expensive problems.** Not demos. Live platforms — tested, deployed, and running. Each repo below is a working system someone can put to work today.
 
-The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **238 public repositories** (209 original), **29,806 contributions** in the last year. On GitHub since 2016.
+The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **238 public repositories** (209 original), **29,811 contributions** in the last year. On GitHub since 2016.
 
 <img src="./assets/stats-card.svg" alt="Verified GitHub statistics" width="48%" />&nbsp;&nbsp;<img src="./assets/languages.svg" alt="Language mix" width="48%" />
 
@@ -17,8 +17,8 @@ The work ships under the [**organvm** ecosystem](https://github.com/organvm) I a
 
 Each is a working production system — source, tests, and live deploy. The numbers are the repository's own CI output, not adjectives.
 
-### [ChatGPT Conversation Exporter](https://github.com/organvm/a-i-chat--exporter)
-A browser userscript that exports your ChatGPT conversations into five portable formats — Markdown, HTML, JSON, PNG, and plain text — entirely in-browser. No account, no server, no data leaves your machine; it authenticates through your existing ChatGPT session and runs on chatgpt.com, chat.openai.com, and new.oaifree.com.
+### [AI Chat Exporter](https://github.com/organvm/a-i-chat--exporter)
+A browser userscript that exports your AI chat conversations into five portable, archival-quality formats — Markdown, HTML, JSON, PNG, and plain text — entirely in-browser. No account, no server, no data leaves your machine; it reverse-engineers the platform's internal API and linearizes the branching message tree, with a provider layer live for ChatGPT and scaffolded for Claude and Gemini.
 
 **Solves —** ChatGPT conversations are ephemeral by design. There's no native export to Markdown or HTML and no bulk download — the official dump is one unwieldy JSON blob most people can't use. Knowledge you paid for in thinking time evaporates or gets locked in a format you can't pipe anywhere.
 
@@ -104,4 +104,4 @@ _Full ranking: [`assets/follow-harvest-report.md`](./assets/follow-harvest-repor
 _If any of this fits, reach out. This conversation starts at serious._
 
 ---
-<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/organvm/limen">organvm/limen</a> — no third-party widgets. Generated 2026-07-18T14:42:46Z.</sub>
+<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/organvm/limen">organvm/limen</a> — no third-party widgets. Generated 2026-07-18T15:07:27Z.</sub>
