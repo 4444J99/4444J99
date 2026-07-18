@@ -1,23 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="92" viewBox="0 0 760 92" role="img" fill="none">
-<rect width="760" height="92" fill="#0d1117" rx="8"/>
-<rect x="14" y="12" width="77" height="30" rx="15" fill="#3572A5"/>
-<text x="52.5" y="32" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">Python</text>
-<rect x="101" y="12" width="112" height="30" rx="15" fill="#3178c6"/>
-<text x="157.0" y="32" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">TypeScript</text>
-<rect x="223" y="12" width="60" height="30" rx="15" fill="#e34c26"/>
-<text x="253.0" y="32" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">HTML</text>
-<rect x="293" y="12" width="112" height="30" rx="15" fill="#f1e05a"/>
-<text x="349.0" y="32" text-anchor="middle" fill="#0d1117" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">JavaScript</text>
-<rect x="415" y="12" width="69" height="30" rx="15" fill="#89e051"/>
-<text x="449.5" y="32" text-anchor="middle" fill="#0d1117" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">Shell</text>
-<rect x="494" y="12" width="77" height="30" rx="15" fill="#A97BFF"/>
-<text x="532.5" y="32" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">Kotlin</text>
-<rect x="581" y="12" width="69" height="30" rx="15" fill="#F05138"/>
-<text x="615.5" y="32" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">Swift</text>
-<rect x="660" y="12" width="51" height="30" rx="15" fill="#563d7c"/>
-<text x="685.5" y="32" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">CSS</text>
-<rect x="14" y="52" width="69" height="30" rx="15" fill="#ff5a03"/>
-<text x="48.5" y="72" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">Astro</text>
-<rect x="93" y="52" width="137" height="30" rx="15" fill="#46390b"/>
-<text x="161.5" y="72" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">SuperCollider</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="86" viewBox="0 0 760 86" role="img" fill="none">
+<rect width="760" height="86" fill="#0d1117" rx="8"/>
+<rect x="14" y="14" width="90" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="29" cy="28.0" r="5" fill="#3572A5"/>
+<text x="44" y="32.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">Python</text>
+<rect x="112" y="14" width="120" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="127" cy="28.0" r="5" fill="#3178c6"/>
+<text x="142" y="32.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">TypeScript</text>
+<rect x="240" y="14" width="75" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="255" cy="28.0" r="5" fill="#e34c26"/>
+<text x="270" y="32.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">HTML</text>
+<rect x="323" y="14" width="120" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="338" cy="28.0" r="5" fill="#f1e05a"/>
+<text x="353" y="32.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">JavaScript</text>
+<rect x="451" y="14" width="83" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="466" cy="28.0" r="5" fill="#89e051"/>
+<text x="481" y="32.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">Shell</text>
+<rect x="542" y="14" width="90" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="557" cy="28.0" r="5" fill="#A97BFF"/>
+<text x="572" y="32.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">Kotlin</text>
+<rect x="640" y="14" width="83" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="655" cy="28.0" r="5" fill="#F05138"/>
+<text x="670" y="32.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">Swift</text>
+<rect x="14" y="50" width="68" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="29" cy="64.0" r="5" fill="#563d7c"/>
+<text x="44" y="68.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">CSS</text>
+<rect x="90" y="50" width="83" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="105" cy="64.0" r="5" fill="#ff5a03"/>
+<text x="120" y="68.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">Astro</text>
+<rect x="181" y="50" width="142" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="196" cy="64.0" r="5" fill="#46390b"/>
+<text x="211" y="68.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">SuperCollider</text>
 </svg>
