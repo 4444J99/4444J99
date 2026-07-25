@@ -7,7 +7,7 @@
 
 **I build production systems that solve expensive problems.** Not demos. Live platforms — tested, deployed, and running. Each repo below is a working system someone can put to work today.
 
-The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **239 public repositories** (210 original), **30,725 contributions** in the last year. On GitHub since 2016.
+The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **239 public repositories** (210 original), **30,811 contributions** in the last year. On GitHub since 2016.
 
 <img src="./assets/stats-card.svg" alt="Verified GitHub statistics" width="48%" />&nbsp;&nbsp;<img src="./assets/languages.svg" alt="Language mix" width="48%" />
 
@@ -104,4 +104,4 @@ _Full ranking: [`assets/follow-harvest-report.md`](./assets/follow-harvest-repor
 _If any of this fits, reach out. This conversation starts at serious._
 
 ---
-<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/organvm/limen">organvm/limen</a> — no third-party widgets. Generated 2026-07-24T08:44:19Z.</sub>
+<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/organvm/limen">organvm/limen</a> — no third-party widgets. Generated 2026-07-25T08:24:57Z.</sub>
