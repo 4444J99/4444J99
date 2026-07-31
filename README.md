@@ -7,7 +7,7 @@
 
 **I build production systems that solve expensive problems.** Not demos. Live platforms — tested, deployed, and running. Each repo below is a working system someone can put to work today.
 
-The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **236 public repositories** (207 original), **31,322 contributions** in the last year. On GitHub since 2016.
+The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **226 public repositories** (197 original), **31,467 contributions** in the last year. On GitHub since 2016.
 
 <img src="./assets/stats-card.svg" alt="Verified GitHub statistics" width="48%" />&nbsp;&nbsp;<img src="./assets/languages.svg" alt="Language mix" width="48%" />
 
@@ -35,42 +35,6 @@ _Shelves are populating — the estate migration is registry-driven from organvm
 
 Each is a working production system — source, tests, and live deploy. The numbers are the repository's own CI output, not adjectives.
 
-### [AI Chat Exporter](https://github.com/organvm/a-i-chat--exporter)
-A browser userscript that exports your AI chat conversations into five portable, archival-quality formats — Markdown, HTML, JSON, PNG, and plain text — entirely in-browser. No account, no server, no data leaves your machine; it reverse-engineers the platform's internal API and linearizes the branching message tree, with a provider layer live for ChatGPT and scaffolded for Claude and Gemini.
-
-**Solves —** ChatGPT conversations are ephemeral by design. There's no native export to Markdown or HTML and no bulk download — the official dump is one unwieldy JSON blob most people can't use. Knowledge you paid for in thinking time evaporates or gets locked in a format you can't pipe anywhere.
-
-`170 tests across 16 suites` · `~5,900 lines of TypeScript` · `distributed on GreasyFork, GitHub, Docker (GHCR), and Cloudflare Pages` · `5 export formats` · `9-language UI` · `MIT-licensed · 549 commits, actively maintained`
-
-→ [Build this into my product](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20deploy%3Aorganvm/a-i-chat--exporter%5D%20%E2%80%94%20inbound) &nbsp;·&nbsp; [Work with the builder](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20hire%3Aorganvm/a-i-chat--exporter%5D%20%E2%80%94%20inbound)
-
-### [50-State UCC Public-Records Intelligence Platform](https://github.com/organvm/public-record-data-scrapper)
-A production platform that collects UCC-1 filings from all 50 Secretary-of-State portals, enriches each record with SEC / OSHA / USPTO / Census and key-gated premium sources, and scores every prospect 0–100 on financing likelihood with an A–F health grade — delivered via dashboard, REST API, and CLI.
-
-**Solves —** Commodity aged UCC lists are cheap and worthless. Exclusive, fresh, enriched, scored UCC leads are the difference between a dialer full of dead numbers and a funded deal.
-
-`3,399 passing tests` · `Terraform AWS (multi-AZ RDS, Redis, S3)` · `60+ collection agents` · `all 50 states` · `live deploy`
-
-→ [Deploy this for your shop](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20deploy%3Aorganvm/public-record-data-scrapper%5D%20%E2%80%94%20inbound) &nbsp;·&nbsp; [Work with the team that built this](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20hire%3Aorganvm/public-record-data-scrapper%5D%20%E2%80%94%20inbound)
-
-### [Styx Peer-Audited Behavioral Market](https://github.com/organvm/peer-audited--behavioral-blockchain)
-A production-grade enforcement layer for commitments with real financial stakes: Stripe FBO escrow, a double-entry ledger, peer-audited proof review, bounty incentives, honeypot QA, and privacy-firewalled B2B funding where employers can sponsor engagement without seeing individual health data.
-
-**Solves —** Accountability and corporate-wellness programs spend money on intent but do not create follow-through. The proof is usually self-reported, the incentives are weak, and holding personal health data creates liability.
-
-`1,107 tests across workspaces` · `public pitch surface returns 200 OK` · `NestJS + Next.js + React Native + Tauri monorepo` · `Stripe escrow and double-entry ledger` · `CodeQL, secret scan, Terraform, beta-readiness, and e2e CI gates`
-
-→ [Deploy this for a commitment program](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20deploy%3Aorganvm/peer-audited--behavioral-blockchain%5D%20%E2%80%94%20inbound) &nbsp;·&nbsp; [Work with the team that built this](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20hire%3Aorganvm/peer-audited--behavioral-blockchain%5D%20%E2%80%94%20inbound)
-
-### [Virtual Try-On Platform for Beauty & Salons](https://github.com/organvm/mirror-mirror)
-A 'phygital' beauty platform: hyper-realistic AR/3D virtual try-on, medical-grade skin diagnostics, AI style coaching, and salon booking in one app. Two modes — clients try on looks and book; stylists run a dashboard, manage consultations and proposals, and coordinate their team.
-
-**Solves —** A salon visit costs hours and real money, and a wrong cut or color carries a six-to-eight-week regret cycle — so customers hesitate and bookings stall. A brand with no try-on misses the digital-first shopper entirely.
-
-`~42,800 lines of TypeScript` · `158 test files` · `60 feature components across a 40-tab app` · `Stripe + Lemon Squeezy billing` · `live on Netlify` · `Docker + Vercel + Netlify + Pages deploy`
-
-→ [Build try-on into my product](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20deploy%3Aorganvm/mirror-mirror%5D%20%E2%80%94%20inbound) &nbsp;·&nbsp; [Work with the builder](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20hire%3Aorganvm/mirror-mirror%5D%20%E2%80%94%20inbound)
-
 ### [Autonomous Inbox-Triage & Draft System](https://github.com/organvm/universal-mail--automation)
 A production system that sweeps Gmail and Apple Mail across accounts, classifies every thread against a protocol ladder, tracks every owed reply in an obligations ledger, and composes voice-matched draft replies — draft-only, it never sends. Deploys as a Cloudflare Worker; runs keyless (IMAP app-password / Apple Mail osascript).
 
@@ -88,15 +52,6 @@ A living ladder of self-* organs (self-sustaining, self-routing, self-feeding, s
 `9-rung organ ladder (each self-* owns its own domain)` · `Heartbeat-driven autonomic loop (scripts/metabolize.sh)` · `Self-healing on regression (heal/ branch pattern)` · `Live: proprioception organ, VIGILIA federation, branch-reap, credential-wall` · `Zero manual upkeep — runs forever once seeded`
 
 → [Adopt self-healing fleet ops](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20deploy%3Aorganvm/limen%5D%20%E2%80%94%20inbound) &nbsp;·&nbsp; [Work with the team that built autonomic infrastructure](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20hire%3Aorganvm/limen%5D%20%E2%80%94%20inbound)
-
-### [Portfolio & Case Studies — 16 Production Systems](https://github.com/organvm/portfolio)
-A public portfolio site showcasing 16 completed production systems — each with a case study, real architecture diagrams (p5.js interactive), live demos where applicable, and the decision trees behind the build. Built with Astro, deployed on Netlify, fully indexed and discoverable.
-
-**Solves —** A portfolio of demos and one-liners doesn't prove judgment. Seeing the tradeoffs, the decisions, the outcomes, and the architecture is the difference between 'built something' and 'ships production systems'.
-
-`609 files · Astro + TypeScript · p5.js interactive visualizations` · `69 test files across the portfolio + content` · `16 case studies with architecture, decisions, and outcomes` · `Live demos & interactive diagrams` · `Netlify deployment + CI/CD` · `SEO-optimized content sites`
-
-→ [Explore the case studies](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20deploy%3Aorganvm/portfolio%5D%20%E2%80%94%20inbound) &nbsp;·&nbsp; [Study the builder's thinking](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20hire%3Aorganvm/portfolio%5D%20%E2%80%94%20inbound)
 
 ## Adapted from the builders I follow
 
@@ -122,4 +77,4 @@ _Full ranking: [`assets/follow-harvest-report.md`](./assets/follow-harvest-repor
 _If any of this fits, reach out. This conversation starts at serious._
 
 ---
-<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/organvm/limen">organvm/limen</a> — no third-party widgets. Generated 2026-07-30T12:35:22Z.</sub>
+<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/organvm/limen">organvm/limen</a> — no third-party widgets. Generated 2026-07-31T09:17:36Z.</sub>
