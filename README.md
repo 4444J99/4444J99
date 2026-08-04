@@ -7,7 +7,7 @@
 
 **I build production systems that solve expensive problems.** Not demos. Live platforms — tested, deployed, and running. Each repo below is a working system someone can put to work today.
 
-The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **227 public repositories** (198 original), **31,929 contributions** in the last year. On GitHub since 2016.
+The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **227 public repositories** (198 original), **32,278 contributions** in the last year. On GitHub since 2016.
 
 <img src="./assets/stats-card.svg" alt="Verified GitHub statistics" width="48%" />&nbsp;&nbsp;<img src="./assets/languages.svg" alt="Language mix" width="48%" />
 
@@ -58,10 +58,10 @@ A living ladder of self-* organs (self-sustaining, self-routing, self-feeding, s
 I harvested the profile READMEs of **all 61 accounts I follow** and rebuilt their best techniques as my own self-hosted, no-third-party-widget versions. The most-adopted signals across my follows:
 
 - **Shields.io badge row** — 8 of my follows use it (@prometheus, @gollum, @asciinema) → my own self-hosted [`badges.svg`](./assets/badges.svg).
-- **Language breakdown card** — 2 of my follows use it (@madhanio, @JawherKl) → my own self-hosted [`languages.svg`](./assets/languages.svg).
 - **GitHub stats card** — 2 of my follows use it (@madhanio, @JawherKl) → my own self-hosted [`stats-card.svg`](./assets/stats-card.svg).
 - **Contribution streak** — 2 of my follows use it (@JawherKl, @mennylevinski) → my own self-hosted [`streak.svg`](./assets/streak.svg).
 - **Activity line graph** — 1 of my follows uses it (@JawherKl) → my own self-hosted [`heatmap.svg`](./assets/heatmap.svg).
+- **Language breakdown card** — 1 of my follows uses it (@JawherKl) → my own self-hosted [`languages.svg`](./assets/languages.svg).
 - **Contribution snake animation** — 1 of my follows uses it (@mennylevinski) → my own self-hosted [`snake.svg`](./assets/snake.svg).
 
 _Full ranking: [`assets/follow-harvest-report.md`](./assets/follow-harvest-report.md) · regenerated weekly._
@@ -77,4 +77,4 @@ _Full ranking: [`assets/follow-harvest-report.md`](./assets/follow-harvest-repor
 _If any of this fits, reach out. This conversation starts at serious._
 
 ---
-<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/organvm/limen">organvm/limen</a> — no third-party widgets. Generated 2026-08-03T10:07:02Z.</sub>
+<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/organvm/limen">organvm/limen</a> — no third-party widgets. Generated 2026-08-04T09:09:49Z.</sub>

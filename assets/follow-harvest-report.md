@@ -6,15 +6,15 @@ Scanned **61** followed accounts (26 have a profile README). Ranked by how many 
 |--:|-----------|-----------------:|--------:|:------------:|----------|
 | 1 | Shields.io badge row | 8 (30.8%) | 69.2% | ✅ | @prometheus, @gollum, @asciinema |
 | 2 | Capsule/wave banner | 2 (7.7%) | 92.3% | — | @madhanio, @mennylevinski |
-| 3 | Language breakdown card | 2 (7.7%) | 92.3% | ✅ | @madhanio, @JawherKl |
-| 4 | Skill-icon row | 2 (7.7%) | 92.3% | — | @madhanio, @mennylevinski |
-| 5 | GitHub stats card | 2 (7.7%) | 92.3% | ✅ | @madhanio, @JawherKl |
-| 6 | Contribution streak | 2 (7.7%) | 92.3% | ✅ | @JawherKl, @mennylevinski |
-| 7 | Activity line graph | 1 (3.8%) | 96.2% | ✅ | @JawherKl |
-| 8 | Collapsible <details> section | 1 (3.8%) | 96.2% | — | @ohmyzsh |
-| 9 | HTML table layout | 1 (3.8%) | 96.2% | — | @JawherKl |
+| 3 | Skill-icon row | 2 (7.7%) | 92.3% | — | @madhanio, @mennylevinski |
+| 4 | GitHub stats card | 2 (7.7%) | 92.3% | ✅ | @madhanio, @JawherKl |
+| 5 | Contribution streak | 2 (7.7%) | 92.3% | ✅ | @JawherKl, @mennylevinski |
+| 6 | Activity line graph | 1 (3.8%) | 96.2% | ✅ | @JawherKl |
+| 7 | Collapsible <details> section | 1 (3.8%) | 96.2% | — | @ohmyzsh |
+| 8 | HTML table layout | 1 (3.8%) | 96.2% | — | @JawherKl |
+| 9 | Language breakdown card | 1 (3.8%) | 96.2% | ✅ | @JawherKl |
 | 10 | Profile view counter | 1 (3.8%) | 96.2% | — | @JawherKl |
 | 11 | Contribution snake animation | 1 (3.8%) | 96.2% | ✅ | @mennylevinski |
 | 12 | Animated typing header | 1 (3.8%) | 96.2% | ✅ | @JawherKl |
 
-_Generated 2026-08-03T10:07:26Z by scripts/follow-harvest-organ.py._
+_Generated 2026-08-04T09:10:23Z by scripts/follow-harvest-organ.py._
