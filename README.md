@@ -5,9 +5,11 @@
 
 # Anthony James Padavano &nbsp;·&nbsp; `@4444J99`
 
-**I build production systems that solve expensive problems.** Not demos. Live platforms — tested, deployed, and running. Each repo below is a working system someone can put to work today.
+**I build production systems that solve expensive problems.** Selected systems range from live infrastructure to deployed tools and working prototypes. Every card states its current maturity and evidence basis.
 
-The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **227 public repositories** (198 original), **33,130 contributions** in the last year. On GitHub since 2016.
+The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **227 public repositories** (198 original), **33,201 contributions** in the last year. On GitHub since 2016.
+
+Architected and directed by one person through a governed, multi-agent production system.
 
 <img src="./assets/stats-card.svg" alt="Verified GitHub statistics" width="48%" />&nbsp;&nbsp;<img src="./assets/languages.svg" alt="Language mix" width="48%" />
 
@@ -21,7 +23,7 @@ One creator, one library. The engine room (organvm) holds the machine that build
 |---|---|
 | [**I · THEORIA**](https://github.com/organvm-i-theoria) | Epistemological frameworks and recursive systems |
 | [**II · POIESIS**](https://github.com/organvm-ii-poiesis) | Generative art and interactive systems |
-| [**III · ERGON**](https://github.com/organvm-iii-ergon) | Revenue-generating autonomous systems — the product ledger |
+| [**III · ERGON**](https://github.com/organvm-iii-ergon) | Autonomous product systems — the product ledger |
 | [**IV · TAXIS**](https://github.com/organvm-iv-taxis) | Orchestration: governance, registry, automation |
 | [**V · LOGOS**](https://github.com/organvm-v-logos) | Public process: essays, methodology, thought leadership |
 | [**VI · KOINONIA**](https://github.com/organvm-vi-koinonia) | Community infrastructure and facilitation |
@@ -33,25 +35,30 @@ _Shelves are populating — the estate migration is registry-driven from organvm
 
 ## The systems
 
-Each is a working production system — source, tests, and live deploy. The numbers are the repository's own CI output, not adjectives.
-
-### [Autonomous Inbox-Triage & Draft System](https://github.com/organvm/universal-mail--automation)
-A production system that sweeps Gmail and Apple Mail across accounts, classifies every thread against a protocol ladder, tracks every owed reply in an obligations ledger, and composes voice-matched draft replies — draft-only, it never sends. Deploys as a Cloudflare Worker; runs keyless (IMAP app-password / Apple Mail osascript).
-
-**Solves —** Obligations fall through the cracks — the escalation you missed, the reply you owed a week ago — while triage burns the most expensive hours of the day. Every 'AI email tool' wants send authority nobody sane will give it.
-
-`400+ tests` · `Cloudflare Worker deploy (wrangler)` · `Gmail + Apple Mail, keyless` · `draft-only by design — composes replies, never sends` · `obligations ledger — every owed reply tracked`
-
-→ [Run this on my inbox](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20deploy%3Aorganvm/universal-mail--automation%5D%20%E2%80%94%20inbound) &nbsp;·&nbsp; [Work with the team that built this](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20hire%3Aorganvm/universal-mail--automation%5D%20%E2%80%94%20inbound)
+Each entry states its current maturity and shows only evidence verified for this Level-1 surface. Repository-reported metrics remain on the linked Level-2 pages with their labels.
 
 ### [Self-Healing Agent Fleet Infrastructure](https://github.com/organvm/limen)
-A living ladder of self-* organs (self-sustaining, self-routing, self-feeding, self-healing) that run autonomously on a heartbeat. The fleet maintains itself: monitors liveness, reaps stale work, syncs state, escalates failures. Built-in organs: proprioception, VIGILIA federation, branch-reap, clone-lifecycle, credential durability, health monitoring.
+A live orchestration and governance system operating in its owner's environment since May 2026, with explicit failure states and human gates.
 
-**Solves —** Every agent fleet needs: health checks, credential refresh, stale-work cleanup, state reconciliation, failure escalation. If manual, each system costs ~2h/week ops. If ignored, cascading failures ripple through the fleet.
+**Current state:** Live in the owner's environment; external adoption unvalidated; human gates remain explicit.
 
-`9-rung organ ladder (each self-* owns its own domain)` · `Heartbeat-driven autonomic loop (scripts/metabolize.sh)` · `Self-healing on regression (heal/ branch pattern)` · `Live: proprioception organ, VIGILIA federation, branch-reap, credential-wall` · `Zero manual upkeep — runs forever once seeded`
+`verified: heartbeat-driven autonomic loop (scripts/metabolize.sh)` · `verified: proprioception, VIGILIA federation, branch-reap, and credential-wall organs are present` · `verified: failure states and human gates are explicit`
 
-→ [Adopt self-healing fleet ops](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20deploy%3Aorganvm/limen%5D%20%E2%80%94%20inbound) &nbsp;·&nbsp; [Work with the team that built autonomic infrastructure](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20hire%3Aorganvm/limen%5D%20%E2%80%94%20inbound)
+→ [Inspect the documented current state](https://github.com/organvm/limen/blob/main/docs/positioning/limen.md)
+
+### [a-i--skills](https://github.com/organvm-iv-taxis/a-i--skills)
+**Current state:** Deployed public library; external adoption is modest and directly observable.
+
+`verified: 15 stars and 7 forks, with external accounts verified on 2026-08-09`
+
+→ [Inspect the documented current state](https://github.com/organvm-iv-taxis/a-i--skills)
+
+### [MONETA](https://mint.4444j99.dev)
+**Current state:** Live; revenue and external adoption are unverified.
+
+`verified: public mint endpoint returned HTTP 200 on 2026-08-09`
+
+→ [Inspect the documented current state](https://github.com/organvm/limen/blob/main/docs/positioning/claims-ledger.md#2-product-claims)
 
 ## Adapted from the builders I follow
 
@@ -77,4 +84,4 @@ _Full ranking: [`assets/follow-harvest-report.md`](./assets/follow-harvest-repor
 _If any of this fits, reach out. This conversation starts at serious._
 
 ---
-<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/organvm/limen">organvm/limen</a> — no third-party widgets. Generated 2026-08-10T08:05:30Z.</sub>
+<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/organvm/limen">organvm/limen</a> — no third-party widgets. Generated 2026-08-11T07:38:46Z.</sub>
