@@ -66,6 +66,9 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Clear generated paths before exact restore
+        run: rm -rf README.md assets
+
       - name: Download rendered public artifacts
         uses: actions/download-artifact@v4
         with:
