@@ -15,9 +15,12 @@
 <rect x="451" y="14" width="83" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
 <circle cx="466" cy="28.0" r="5" fill="#89e051"/>
 <text x="481" y="32.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">Shell</text>
-<rect x="542" y="14" width="83" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
-<circle cx="557" cy="28.0" r="5" fill="#F05138"/>
-<text x="572" y="32.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">Swift</text>
+<rect x="542" y="14" width="53" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="557" cy="28.0" r="5" fill="#555555"/>
+<text x="572" y="32.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">C</text>
+<rect x="603" y="14" width="83" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="618" cy="28.0" r="5" fill="#F05138"/>
+<text x="633" y="32.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">Swift</text>
 <rect x="14" y="50" width="142" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
 <circle cx="29" cy="64.0" r="5" fill="#46390b"/>
 <text x="44" y="68.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">SuperCollider</text>
@@ -27,7 +30,4 @@
 <rect x="269" y="50" width="75" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
 <circle cx="284" cy="64.0" r="5" fill="#701516"/>
 <text x="299" y="68.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">Ruby</text>
-<rect x="352" y="50" width="53" height="28" rx="6" fill="#161b22" stroke="#30363d"/>
-<circle cx="367" cy="64.0" r="5" fill="#555555"/>
-<text x="382" y="68.0" fill="#e6edf3" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">C</text>
 </svg>
