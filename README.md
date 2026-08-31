@@ -7,7 +7,7 @@
 
 **I build production systems that solve expensive problems.** Selected systems range from live infrastructure to deployed tools and working prototypes. Every card states its current maturity and evidence basis.
 
-The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **227 public repositories** (198 original), **33,543 contributions** in the last year. On GitHub since 2016.
+The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **227 public repositories** (198 original), **33,613 contributions** in the last year. On GitHub since 2016.
 
 Architected and directed by one person through a governed, multi-agent production system.
 
@@ -84,4 +84,4 @@ _Full ranking: [`assets/follow-harvest-report.md`](./assets/follow-harvest-repor
 _If any of this fits, reach out. This conversation starts at serious._
 
 ---
-<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/4444J99/limen">4444J99/limen</a> — no third-party widgets. Generated 2026-08-30T11:56:49Z.</sub>
+<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/4444J99/limen">4444J99/limen</a> — no third-party widgets. Generated 2026-08-31T13:55:29Z.</sub>
