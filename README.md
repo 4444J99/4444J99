@@ -7,7 +7,7 @@
 
 **I build production systems that solve expensive problems.** Selected systems range from live infrastructure to deployed tools and working prototypes. Every card states its current maturity and evidence basis.
 
-The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **228 public repositories** (199 original), **34,576 contributions** in the last year. On GitHub since 2016.
+The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **228 public repositories** (199 original), **34,615 contributions** in the last year. On GitHub since 2016.
 
 Architected and directed by one person through a governed, multi-agent production system.
 
@@ -80,7 +80,7 @@ A deployed public exporter with an active repository and MIT licence; functional
 
 ## Adapted from the builders I follow
 
-I harvested the profile READMEs of **all 61 accounts I follow** and rebuilt their best techniques as my own self-hosted, no-third-party-widget versions. The most-adopted signals across my follows:
+I harvested the profile READMEs of **all 62 accounts I follow** and rebuilt their best techniques as my own self-hosted, no-third-party-widget versions. The most-adopted signals across my follows:
 
 - **Shields.io badge row** — 8 of my follows use it (@prometheus, @gollum, @asciinema) → my own self-hosted [`badges.svg`](./assets/badges.svg).
 - **Language breakdown card** — 2 of my follows use it (@TimothyZhang7, @JawherKl) → my own self-hosted [`languages.svg`](./assets/languages.svg).
@@ -102,4 +102,4 @@ _Full ranking: [`assets/follow-harvest-report.md`](./assets/follow-harvest-repor
 _If any of this fits, reach out. This conversation starts at serious._
 
 ---
-<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/4444J99/limen">4444J99/limen</a> — no third-party widgets. Generated 2026-09-12T10:50:16Z.</sub>
+<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/4444J99/limen">4444J99/limen</a> — no third-party widgets. Generated 2026-09-13T11:55:46Z.</sub>
