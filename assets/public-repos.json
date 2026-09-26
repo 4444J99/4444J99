@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T11:53:40Z",
+  "generated": "2026-09-26T11:27:56Z",
   "public_repos": [
     "4444J99/4444J99",
     "4444J99/_agent-health",
@@ -60,6 +60,7 @@
     "4444J99/reverse-engine-recursive-run",
     "4444J99/salon-archive",
     "4444J99/scalable-lore-expert",
+    "4444J99/schema-definitions",
     "4444J99/sema-metra--alchemica-mundi",
     "4444J99/simvltanea",
     "4444J99/social-automation",
@@ -167,7 +168,6 @@
     "organvm-iv-taxis/praxis-perpetua",
     "organvm-iv-taxis/quick-fire--all-command",
     "organvm-iv-taxis/rules-system-bound",
-    "organvm-iv-taxis/schema-definitions",
     "organvm-iv-taxis/system-governance-framework",
     "organvm-v-logos/.github",
     "organvm-v-logos/organvm-v-logos.github.io",
