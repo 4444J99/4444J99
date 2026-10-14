@@ -37,8 +37,10 @@ jobs:
           # with backoff. Token is scrubbed from the remote URL after clone so
           # no credential is persisted (persist-credentials: false equivalent).
           # Shallow clone of the default branch, matching checkout defaults.
-          rm -rf .engine
           for attempt in 1 2 3 4 5; do
+            # Clear any partial clone from a failed attempt; git refuses a
+            # non-empty destination, which would make every retry fail.
+            rm -rf .engine
             if git clone --depth 1 \
                 "https://x-access-token:${GH_TOKEN}@github.com/4444J99/limen.git" \
                 .engine; then
