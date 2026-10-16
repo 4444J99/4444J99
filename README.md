@@ -7,7 +7,7 @@
 
 **I design learning experiences and build the systems that support them.** Education is the primary portfolio: writing instruction, curriculum design, and reproducible learning tools. Creative work develops in parallel. Each project states what is authored, working, or still unverified.
 
-The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **59 public repositories** (58 original), **36,689 contributions** in the last year. On GitHub since 2016.
+The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **0 public repositories** (0 original), **45,834 contributions** in the last year. On GitHub since 2016.
 
 Architected and directed by one person through a governed, multi-agent production system.
 
@@ -66,7 +66,7 @@ A live orchestration and governance system operating in its owner's environment 
 
 ## Adapted from the builders I follow
 
-I harvested the profile READMEs of **all 62 accounts I follow** and rebuilt their best techniques as my own self-hosted, no-third-party-widget versions. The most-adopted signals across my follows:
+I harvested the profile READMEs of **all 65 accounts I follow** and rebuilt their best techniques as my own self-hosted, no-third-party-widget versions. The most-adopted signals across my follows:
 
 - **Shields.io badge row** — 8 of my follows use it (@prometheus, @gollum, @asciinema) → my own self-hosted [`badges.svg`](./assets/badges.svg).
 - **Language breakdown card** — 2 of my follows use it (@TimothyZhang7, @JawherKl) → my own self-hosted [`languages.svg`](./assets/languages.svg).
@@ -88,4 +88,4 @@ _Full ranking: [`assets/follow-harvest-report.md`](./assets/follow-harvest-repor
 _If any of this fits, reach out. This conversation starts at serious._
 
 ---
-<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/4444J99/limen">4444J99/limen</a> — no third-party widgets. Generated 2026-09-30T21:58:11Z.</sub>
+<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/4444J99/limen">4444J99/limen</a> — no third-party widgets. Generated 2026-10-16T23:34:43Z.</sub>

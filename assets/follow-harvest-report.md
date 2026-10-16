@@ -1,6 +1,6 @@
 # Follow-harvest digest
 
-Scanned **62** followed accounts (26 have a profile README). Ranked by how many of them use each technique; we rebuild the top ones as our own self-hosted, no-third-party-widget versions.
+Scanned **65** followed accounts (26 have a profile README). Ranked by how many of them use each technique; we rebuild the top ones as our own self-hosted, no-third-party-widget versions.
 
 | # | Technique | Follows using it | Novelty | We self-host | Examples |
 |--:|-----------|-----------------:|--------:|:------------:|----------|
@@ -17,4 +17,4 @@ Scanned **62** followed accounts (26 have a profile README). Ranked by how many 
 | 11 | Contribution snake animation | 1 (3.8%) | 96.2% | ✅ | @mennylevinski |
 | 12 | Animated typing header | 1 (3.8%) | 96.2% | ✅ | @JawherKl |
 
-_Generated 2026-09-28T14:00:13Z by scripts/follow-harvest-organ.py._
+_Generated 2026-10-16T23:35:26Z by scripts/follow-harvest-organ.py._
