@@ -7,7 +7,7 @@
 
 **I design learning experiences and build the systems that support them.** Education is the primary portfolio: writing instruction, curriculum design, and reproducible learning tools. Creative work develops in parallel. Each project states what is authored, working, or still unverified.
 
-The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **0 public repositories** (0 original), **46,558 contributions** in the last year. On GitHub since 2016.
+The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **0 public repositories** (0 original), **46,593 contributions** in the last year. On GitHub since 2016.
 
 Architected and directed by one person through a governed, multi-agent production system.
 
@@ -88,4 +88,4 @@ _Full ranking: [`assets/follow-harvest-report.md`](./assets/follow-harvest-repor
 _If any of this fits, reach out. This conversation starts at serious._
 
 ---
-<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/4444J99/limen">4444J99/limen</a> — no third-party widgets. Generated 2026-10-22T06:43:58Z.</sub>
+<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/4444J99/limen">4444J99/limen</a> — no third-party widgets. Generated 2026-10-23T06:43:38Z.</sub>
