@@ -6,10 +6,10 @@ Scanned **65** followed accounts (26 have a profile README). Ranked by how many 
 |--:|-----------|-----------------:|--------:|:------------:|----------|
 | 1 | Shields.io badge row | 9 (34.6%) | 65.4% | ✅ | @prometheus, @gollum, @asciinema |
 | 2 | Skill-icon row | 3 (11.5%) | 88.5% | — | @bag3labo, @madhanio, @mennylevinski |
-| 3 | Capsule/wave banner | 2 (7.7%) | 92.3% | — | @madhanio, @mennylevinski |
-| 4 | Language breakdown card | 2 (7.7%) | 92.3% | ✅ | @bag3labo, @JawherKl |
-| 5 | GitHub stats card | 2 (7.7%) | 92.3% | ✅ | @madhanio, @JawherKl |
-| 6 | Contribution streak | 2 (7.7%) | 92.3% | ✅ | @bag3labo, @JawherKl |
+| 3 | Contribution streak | 3 (11.5%) | 88.5% | ✅ | @bag3labo, @madhanio, @JawherKl |
+| 4 | Capsule/wave banner | 2 (7.7%) | 92.3% | — | @madhanio, @mennylevinski |
+| 5 | Language breakdown card | 2 (7.7%) | 92.3% | ✅ | @bag3labo, @JawherKl |
+| 6 | GitHub stats card | 2 (7.7%) | 92.3% | ✅ | @madhanio, @JawherKl |
 | 7 | Activity line graph | 1 (3.8%) | 96.2% | ✅ | @JawherKl |
 | 8 | Collapsible <details> section | 1 (3.8%) | 96.2% | — | @ohmyzsh |
 | 9 | HTML table layout | 1 (3.8%) | 96.2% | — | @JawherKl |
@@ -17,4 +17,4 @@ Scanned **65** followed accounts (26 have a profile README). Ranked by how many 
 | 11 | Contribution snake animation | 1 (3.8%) | 96.2% | ✅ | @mennylevinski |
 | 12 | Animated typing header | 1 (3.8%) | 96.2% | ✅ | @JawherKl |
 
-_Generated 2026-10-28T06:33:37Z by scripts/follow-harvest-organ.py._
+_Generated 2026-10-29T06:33:41Z by scripts/follow-harvest-organ.py._

@@ -7,7 +7,7 @@
 
 **I design learning experiences and build the systems that support them.** Education is the primary portfolio: writing instruction, curriculum design, and reproducible learning tools. Creative work develops in parallel. Each project states what is authored, working, or still unverified.
 
-The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **0 public repositories** (0 original), **47,245 contributions** in the last year. On GitHub since 2016.
+The work ships under the [**organvm** ecosystem](https://github.com/organvm) I architect — **0 public repositories** (0 original), **47,346 contributions** in the last year. On GitHub since 2016.
 
 Architected and directed by one person through a governed, multi-agent production system.
 
@@ -69,9 +69,9 @@ A live orchestration and governance system operating in its owner's environment 
 I harvested the profile READMEs of **all 65 accounts I follow** and rebuilt their best techniques as my own self-hosted, no-third-party-widget versions. The most-adopted signals across my follows:
 
 - **Shields.io badge row** — 9 of my follows use it (@prometheus, @gollum, @asciinema) → my own self-hosted [`badges.svg`](./assets/badges.svg).
+- **Contribution streak** — 3 of my follows use it (@bag3labo, @madhanio, @JawherKl) → my own self-hosted [`streak.svg`](./assets/streak.svg).
 - **Language breakdown card** — 2 of my follows use it (@bag3labo, @JawherKl) → my own self-hosted [`languages.svg`](./assets/languages.svg).
 - **GitHub stats card** — 2 of my follows use it (@madhanio, @JawherKl) → my own self-hosted [`stats-card.svg`](./assets/stats-card.svg).
-- **Contribution streak** — 2 of my follows use it (@bag3labo, @JawherKl) → my own self-hosted [`streak.svg`](./assets/streak.svg).
 - **Activity line graph** — 1 of my follows uses it (@JawherKl) → my own self-hosted [`heatmap.svg`](./assets/heatmap.svg).
 - **Contribution snake animation** — 1 of my follows uses it (@mennylevinski) → my own self-hosted [`snake.svg`](./assets/snake.svg).
 
@@ -88,4 +88,4 @@ _Full ranking: [`assets/follow-harvest-report.md`](./assets/follow-harvest-repor
 _If any of this fits, reach out. This conversation starts at serious._
 
 ---
-<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/4444J99/limen">4444J99/limen</a> — no third-party widgets. Generated 2026-10-28T06:33:04Z.</sub>
+<sub>Every number on this page is regenerated from the live GitHub API and re-derivable from <a href="./assets/stats-manifest.json">stats-manifest.json</a> (api-attested = re-run the query; repo-attested = the repo's own CI). Visuals are self-hosted SVGs rendered by <a href="https://github.com/4444J99/limen">4444J99/limen</a> — no third-party widgets. Generated 2026-10-29T06:33:02Z.</sub>
