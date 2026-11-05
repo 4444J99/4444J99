@@ -1,90 +1,41 @@
-# Canonical copy of the self-updating profile workflow. This file is DEPLOYED to
-# 4444J99/4444J99/.github/workflows/profile.yml (by scripts/profile-publish.sh). It keeps the
-# profile README + self-hosted assets regenerated daily from live GitHub data, using the engine
-# in 4444J99/limen as the single source of truth (no vendored copy — the profile repo checks the
-# engine out at run time). Every number is re-verified before any commit.
+# The profile source belongs to this repository. Validation never rewrites or publishes it.
 name: profile
 
 on:
-  schedule:
-    - cron: '17 6 * * *'   # daily 06:17 UTC — after the contribution graph settles
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - assets/**
+      - scripts/validate-profile.py
+      - .github/workflows/profile.yml
+  pull_request:
+    paths:
+      - README.md
+      - assets/**
+      - scripts/validate-profile.py
+      - .github/workflows/profile.yml
   workflow_dispatch: {}
 
-permissions: {}
+permissions:
+  contents: read
 
 concurrency:
-  group: profile
+  group: profile-validation-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  render:
+  validate:
     runs-on: ubuntu-24.04
-    permissions:
-      contents: read
     steps:
-      - name: Checkout profile repo
+      - name: Checkout profile source
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
-
-      - name: Checkout the engine (4444J99/limen)
-        uses: actions/checkout@v4
-        with:
-          repository: 4444J99/limen
-          path: .engine
           persist-credentials: false
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Render provable, self-hosted profile
-        env:
-          # This job has read-only contents permission and persists no checkout credentials.
-          GH_TOKEN: ${{ github.token }}
-          LIMEN_PROFILE_OUT: ${{ github.workspace }}
-        run: .engine/scripts/profile-build.sh "$LIMEN_PROFILE_OUT"
-
-      - name: Stage rendered public artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: profile-render-${{ github.run_id }}
-          path: |
-            README.md
-            assets
-          if-no-files-found: error
-          retention-days: 1
-
-  finalize:
-    needs: render
-    runs-on: ubuntu-24.04
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout profile repo without persisted credentials
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-
-      - name: Clear generated paths before exact restore
-        run: rm -rf README.md assets
-
-      - name: Download rendered public artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: profile-render-${{ github.run_id }}
-          path: .
-
-      - name: Commit if changed
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A README.md assets
-          if git diff --cached --quiet; then
-            exit 0
-          fi
-          git commit -m 'chore(profile): regenerate provable profile [skip ci]'
-          gh auth setup-git
-          git push
+      - name: Validate profile source and local references
+        run: python3 scripts/validate-profile.py
