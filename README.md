@@ -22,7 +22,7 @@ Teaching runs through this practice: writing instruction, revision, curriculum d
 ### Visual art, sound & creative systems
 
 - **[Generative Multimedia Spatial Environment](https://github.com/4444J99/generative-multimedia-spatial-environment)** — An experimental web environment joining generative visuals, sound, writing, and spatial navigation.
-- **[Audiovisual Media Postproduction System](https://github.com/4444J99/audiovisual-media-postproduction-system)** — Recipe-driven tools for audio, video, compositing, and reproducible editions.
+- **[Audiovisual Media Postproduction System](https://github.com/4444J99/tool-audiovisual-postproduction)** — Recipe-driven tools for audio, video, compositing, and reproducible editions.
 
 ### Build tools, workflows & agent runtimes
 
