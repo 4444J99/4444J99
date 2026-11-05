@@ -7,13 +7,17 @@ on:
     paths:
       - README.md
       - assets/**
+      - requirements-profile.txt
       - scripts/validate-profile.py
+      - tests/**
       - .github/workflows/profile.yml
   pull_request:
     paths:
       - README.md
       - assets/**
+      - requirements-profile.txt
       - scripts/validate-profile.py
+      - tests/**
       - .github/workflows/profile.yml
   workflow_dispatch: {}
 
@@ -21,7 +25,8 @@ permissions:
   contents: read
 
 concurrency:
-  group: profile-validation-${{ github.ref }}
+  # Keep the former publisher's group so replacement runs cancel it if still in flight.
+  group: profile
   cancel-in-progress: true
 
 jobs:
@@ -37,5 +42,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Validate profile source and local references
+      - name: Install pinned profile validation dependencies
+        run: python3 -m pip install --requirement requirements-profile.txt
+
+      - name: Test Markdown destination validation
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Validate profile source and local file targets
         run: python3 scripts/validate-profile.py
