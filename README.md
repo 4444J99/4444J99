@@ -4,6 +4,8 @@
 
 **Writer, educator, multimedia artist & toolmaker.**
 
+**[Portfolio — writing, art, knowledge & tools](https://4444j99-portfolio.ivixivi.workers.dev/portfolio/)**
+
 I work across writing, rhetoric, language, knowledge, visual art, sound, and software. I study how meaning takes shape, make creative work in different media, and build tools for thinking, making, and working. Archives, corpora, and retrieval connect my language and information work. Developer tooling, workflow systems, and agent runtimes are also subjects of design and research in their own right.
 
 Teaching runs through this practice: writing instruction, revision, curriculum design, and learning tools. A project is a coherent body of work; it can draw on several repositories with distinct responsibilities.
@@ -35,7 +37,7 @@ These links lead to public source and documentation. Each repository records its
 
 I welcome conversations about writing and research, knowledge systems, creative work, and software tools. For education roles, my focus is writing instruction, curriculum design, revision, and learning technology.
 
-**[Get in touch](mailto:contact@4444j99.dev)** · **[Discuss an education role](mailto:contact@4444j99.dev?subject=Education%20role)**
+**[Get in touch](mailto:padavano.anthony@gmail.com)** · **[Discuss an education role](mailto:padavano.anthony@gmail.com?subject=Education%20role)**
 
 ---
 
