@@ -4,7 +4,7 @@
 
 **Writer, educator, multimedia artist & toolmaker.**
 
-**[Portfolio — writing, art, knowledge & tools](https://4444j99-portfolio.ivixivi.workers.dev/portfolio/)**
+**[Portfolio — writing, art, knowledge & tools](https://4444j99.dev/)**
 
 I work across writing, rhetoric, language, knowledge, visual art, sound, and software. I study how meaning takes shape, make creative work in different media, and build tools for thinking, making, and working. Archives, corpora, and retrieval connect my language and information work. Developer tooling, workflow systems, and agent runtimes are also subjects of design and research in their own right.
 
